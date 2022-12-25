@@ -2,7 +2,7 @@
 
 <img alt="F-Droid" src="https://img.shields.io/f-droid/v/com.controlloid?label=f-droid&style=flat"> <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/experiment322/controlloid-client?label=source&style=flat"> <img alt="GitHub commits since tagged version" src="https://img.shields.io/github/commits-since/experiment322/controlloid-client/latest">
 
-# controlloid-client
+# Binary-controller-client
 Controlloid is a small open source application that turns your phone into a
 real game controller for your PC. It works on Linux and Windows and can
 connect through anything that allows the creation of a LAN network: WiFi,
